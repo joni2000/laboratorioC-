@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635774079 source:c:\users\danie\documents\curso ejemplos c\lab i\2021 curso lunes c2\1-11\cadenas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funciones.h"
+
+1635774491 c:\users\danie\documents\curso ejemplos c\lab i\2021 curso lunes c2\1-11\cadenas\funciones.h
+

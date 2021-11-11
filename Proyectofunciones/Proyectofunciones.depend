@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634914704 source:c:\users\danie\documents\curso ejemplos c\lab i\2021 c2 curso viernes\22-10\proyectofunciones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"funciones.h"
+	"resolucionTP.h"
+
+1634911857 c:\users\danie\documents\curso ejemplos c\lab i\2021 c2 curso viernes\22-10\proyectofunciones\funciones.h
+
+1634915475 c:\users\danie\documents\curso ejemplos c\lab i\2021 c2 curso viernes\22-10\proyectofunciones\resoluciontp.h
+
