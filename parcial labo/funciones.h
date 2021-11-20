@@ -56,11 +56,15 @@ int minimoVector(int v[], int tam){
 }
 void ordenarVector(int v[], int tam ){
     int i,j, posmin, aux;
-    for(i = 0 ; i < tam-1 ;i++ ){
-        posmin
-        for(j=i+1 ; j<tam ;j++){
-            if(v[j] < v[posmin]) posmin=j;
+
+    for(i=0;i<tam-1;i++){
+
+        posmin=i;
+
+        for(j=i+1;j<tam;j++){
+            if(v[j]<v[posmin]) posmin=j;
         }
+        
         aux=v[i];
         v[i]=v[posmin];
         v[posmin]=aux;

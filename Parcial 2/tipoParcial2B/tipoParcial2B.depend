@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636727719 source:c:\users\danie\documents\curso ejemplos c\lab i\2021 c2 curso viernes\tipoparcial2b\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1636727857 c:\users\danie\documents\curso ejemplos c\lab i\2021 c2 curso viernes\tipoparcial2b\funciones.h
+

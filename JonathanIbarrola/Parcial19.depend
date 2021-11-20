@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637332325 source:c:\users\ibarr\onedrive\escritorio\parcial19\main.cpp
+	<iostream>
+	<cstdlib>
+	"Funcione.h"
+
+1637332452 c:\users\ibarr\onedrive\escritorio\parcial19\funcione.h
+
